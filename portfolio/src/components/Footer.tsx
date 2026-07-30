@@ -25,7 +25,7 @@ export default function Footer() {
         </h2>
 
         <p className="mx-auto mt-5 max-w-md text-white/50">
-          เปิดรับโอกาสงานใหม่และโปรเจกต์ที่น่าสนใจเสมอ
+          เปิดรับโอกาสงานใหม่และโปรเจกต์ที่น่าสนใจเสมอครับ
         </p>
 
         {/* info columns */}
