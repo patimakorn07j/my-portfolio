@@ -79,8 +79,7 @@ export default function Hero() {
 
         {/* Subtitle / Bio */}
         <p className="mx-auto mt-8 max-w-2xl font-body text-base font-normal leading-relaxed text-inksoft sm:text-lg">
-          รวมผลงานและโปรเจกต์ที่ผ่านมา ตั้งแต่เว็บแอปพลิเคชันไปจนถึงเครื่องมือสำหรับนักพัฒนา 
-          สร้างสรรค์ด้วยความใส่ใจและประณีตในทุกรายละเอียด
+          รวมผลงานและโปรเจกต์ที่ผ่านมา
         </p>
 
         {/* Call to Actions */}
